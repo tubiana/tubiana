@@ -2,11 +2,14 @@
 
 ## About me
 
-I am currently a postdoctoral fellow at the University of Bergen in Nathalie Reuter's group working on peripheral proteins.  
-Previously I worked at the Servier research institute (as a postdoctoral fellow) where I developed new methods to increase their bioisosteric molecular 3D fragment knowledge.  
+I am currently a postdoctoral fellow the [I2BC institute](https://www.i2bc.paris-saclay.fr) (Institute for Integrative Biology of the Cell) in the [IMAPP](https://www.i2bc.paris-saclay.fr/equipe-interactions-and-assembly-mechanisms-of-proteins-and-peptides/) Team. I work with moledular modelling and molecular dynamic simulation on viral proteins (Hepatitis E, Hepatitis C, Norovirus) and their interaction with biological membranes.  
+
+I was previously at the the University of Bergen in Nathalie Reuter's group working on the depiction of peripheral membrane protein membrane binding site.  
+I also worked at the Servier research institute (as a postdoctoral fellow) where I developed new methods to increase their bioisosteric molecular 3D fragment knowledge.   
+
 During my Ph.D., supervised by Dr. Stephane Bressanelli and Dr. Yves Boulard at the French Atomic Energy Commission (Paris Saclay), I studied the norovirus capsid self-assembly using molecular dynamics, homology modeling, protein/protein docking but also some experiments with S.A.X.S data acquisition and interpretation.  
 
-I love Structural bioinformatic, Molecular Modelling, Molecular Dynamics, 3D visualisation. 
+I love Structural bioinformatic, Molecular Modelling, Molecular Dynamics and 3D visualisation. 
 
 ## About my work
 You can learn more about my work here: 
@@ -16,10 +19,8 @@ You can learn more about my work here:
 - My thesis on Norovirus Capsid Assembly: https://tubiana.me/research/norovirus-capsid-assembly/
 - All my teaching content on Molecular Mechanic and Molecular Dynamic (Slides and practicals): https://tubiana.me/teaching/kjem220-molecular-modelling/
 
-
 ## Contact me
 [![Twitter Follow](https://img.shields.io/twitter/follow/ttubiana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ttubiana)
-
 
 
 #### Github Stats
