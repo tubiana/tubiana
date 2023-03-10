@@ -1,4 +1,4 @@
-# Thibault Tubiana, PhD, University of Bergen, Norway.
+# Thibault Tubiana, PhD.
 
 ## About me
 
