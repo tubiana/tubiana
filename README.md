@@ -13,11 +13,11 @@ I love Structural bioinformatic, Molecular Modelling, Molecular Dynamics and 3D 
 
 ## About my work
 You can learn more about my work here: 
-- My galery (Checkout my blender gallery): http://tubiana.me/gallery/
-- My clustering software for molecular dynamic: TTCLust : https://github.com/tubiana/TTClust
-- My gromacs protocol: https://github.com/tubiana/protocolGromacs
-- My thesis on Norovirus Capsid Assembly: https://tubiana.me/research/norovirus-capsid-assembly/
-- All my teaching content on Molecular Mechanic and Molecular Dynamic (Slides and practicals): https://tubiana.me/teaching/kjem220-molecular-modelling/
+- My galery (Checkout my blender gallery): [http://tubiana.me/gallery/](http://tubiana.me/gallery/)
+- My clustering software for molecular dynamic: TTCLust : [https://github.com/tubiana/TTClust](https://github.com/tubiana/TTClust)
+- My gromacs protocol: [https://github.com/tubiana/protocolGromacs](https://github.com/tubiana/protocolGromacs)
+- My thesis on Norovirus Capsid Assembly: [https://tubiana.me/research/norovirus-capsid-assembly/](https://tubiana.me/research/norovirus-capsid-assembly/)
+- All my teaching content on Molecular Mechanic and Molecular Dynamic (Slides and practicals): [https://tubiana.me/teaching/kjem220-molecular-modelling/](https://tubiana.me/teaching/kjem220-molecular-modelling/)
 
 ## Contact me
 [![Twitter Follow](https://img.shields.io/twitter/follow/ttubiana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ttubiana)
