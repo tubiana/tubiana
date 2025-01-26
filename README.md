@@ -12,6 +12,7 @@ During my Ph.D., supervised by Dr. Stephane Bressanelli and Dr. Yves Boulard at 
 I love Structural bioinformatic, Molecular Modelling, Molecular Dynamics and 3D visualisation. 
 ## Github pages: 
 - **MD Steps Calculator** : Calculate the number of MD steps from the timestep and final simulation times. [https://tubiana.github.io/mdstepscalculator/](https://tubiana.github.io/mdstepscalculator/).
+- ** UniprotID to Sequence**: Since AF3 server needs the sequence formated in 1 lines, This tools take a list of unniprot ID and return the sequences formated on 1 lines [https://tubiana.github.io/uniprot_to_seq/](https://tubiana.github.io/uniprot_to_seq/).
 
 ## About my work
 You can learn more about my work here: 
